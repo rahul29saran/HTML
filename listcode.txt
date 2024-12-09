@@ -1,0 +1,37 @@
+<HTML>
+<HEAD>
+<TITLE> ORDER LIST </TITLE>
+</HEAD>
+<BODY BGCOLOR=SILVER>
+<OL TYPE=A>
+<LI> INDIA</li>
+</ol>
+<ul>
+<li> RAJASTHAN</li>
+</ul>
+<ol >
+<li> BIKANER</LI>
+<LI> JAIPUR</LI>
+<LI> KOTA</LI>
+</OL>
+<BR>
+
+<UL>
+<LI> MADHYA PRADESH</LI>
+</UL>
+<OL TYPE=I >
+<LI> INDORE</LI>
+<LI>BHOPAL</LI>
+<LI>GWALIOR</LI>
+</OL>
+<BR>
+<OL TYPE=A START=2>
+<LI>USA</LI>
+</OL>
+<UL TYPE=CIRCLE>
+<LI> NEW YORK</LI>
+<LI> CALIFORNIA</LI>
+<LI>WASHINGTON</LI>
+</UL>
+</BODY>
+</HTML>
